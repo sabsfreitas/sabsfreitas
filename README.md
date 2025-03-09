@@ -11,6 +11,6 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,py,postgres,sequelize,php,react,js,git,figma,html,css))](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,py,postgres,sequelize,php,react,js,git,figma,html,css)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabsfreitas&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sabsfreitas" /></p>
