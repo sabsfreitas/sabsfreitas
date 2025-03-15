@@ -29,11 +29,17 @@
   💌 Fale comigo! ⤵️
 </p>
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sabrina.rf2003@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sabrinaramosdefreitas" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5553981102631" alt="WhatsApp"/></a>
+<p>
+                <a href="mailto:sabrina.rf2003@gmail.com" target="_blank">
+                    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" 
+                         alt="Gmail">
+                </a>
+                <a href="https://www.linkedin.com/in/sabrinaramosdefreitas" target="_blank">
+                    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" 
+                         alt="LinkedIn">
+                </a>
+                <a href="https://api.whatsapp.com/send?phone=5553981102631" target="_blank">
+                    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" 
+                         alt="WhatsApp">
+                </a>
 </p>
