@@ -1,16 +1,22 @@
-<h1 align="center">Oi! 👋 Sou a Sabrina.</h1>
-<h3 align="center">Bem-vind@! Aqui tu vais encontrar alguns dos meus projetos, contribuições e interesses no mundo da programação e desenvolvimento.</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 💻 Analista de Sistemas em formação - FURG.
-- 🌐 Técnico em Informática para Internet - IFRS.
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sabrinaramosdefreitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabrina-freitas-8354a8234/" height="30" width="40" /></a>
+<p align="left"> 
+  Oi!! Meu nome é Sabrina. Tenho formação técnica em Informática para Internet no IFRS, e atualmente sou estudante do 5o período em Sistemas de Informação.
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  🦄 Linguagens & Ferramentas: [![Skills](https://skillicons.dev/icons?i=nodejs,express,py,postgres,sequelize,php,react,js,git,figma,html,css)](https://skillicons.dev)
+</p>
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,py,postgres,sequelize,php,react,js,git,figma,html,css)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabsfreitas&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sabsfreitas" /></p>
+<p align="left">
+  💌 Fale comigo! ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=sabrina.rf2003@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sabrinaramosdefreitas" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5553981102631" alt="WhatsApp"/></a>
