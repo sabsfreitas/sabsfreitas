@@ -7,10 +7,10 @@
 <p align="left">
   🦄 Skills: 
          <ul>
-                <li>JavaScript, Python, R, PHP</li>
+                <li>JavaScript, Python, PHP, R</li>
                 <li>Node.js, Express, JWT</li>
                 <li>React, HTML, CSS</li>
-                <li>PostgreSQL, SQLite, SQL, MySQL, MongoDB</li>
+                <li>SQL, Postgres, SQLite, MySQL, MongoDB</li>
                 <li>Sequelize, Mongoose</li>
           </ul>
 </p>
@@ -21,6 +21,7 @@
                 <li>Git & GitHub</li>
                 <li>Figma</li>
                 <li>Postman</li>
+                <li>pgAdmin 4 & DBeaver</li>
                 <li>Visual Studio Code</li>
             </ul>
 </p>
