@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: 
+  🦄 Tecnologias: 
          <ul>
                 <li>JavaScript, Python, PHP, R</li>
                 <li>Node.js, Express, JWT</li>
