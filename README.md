@@ -1,46 +1,30 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+## olá, eu sou a sabrina 👋
 
-<p align="left"> 
-  Oi!! Meu nome é Sabrina. Tenho formação técnica em Informática para Internet no IFRS, e atualmente sou estudante do 5º período em Sistemas de Informação pela FURG.
-</p>
+dev front-end que traduz conceitos em experiências visuais com propósito.
 
-<p align="left">
-  🦄 Tecnologias: 
-         <ul>
-                <li>JavaScript, Python, PHP, R</li>
-                <li>Node.js, Express, JWT</li>
-                <li>React, HTML, CSS</li>
-                <li>SQL, Postgres, SQLite, MySQL, MongoDB</li>
-                <li>Sequelize, Mongoose</li>
-          </ul>
-</p>
+me inspiro na harmonia entre forma e função: onde o código respira design e o design fala a linguagem da lógica.
 
-<p align="left">
-  💼 Ferramentas:
-          <ul>
-                <li>Git & GitHub</li>
-                <li>Figma</li>
-                <li>Postman</li>
-                <li>pgAdmin 4 & DBeaver</li>
-                <li>Visual Studio Code</li>
-            </ul>
-</p>
+💡 gosto de escrever código que conversa com quem usa e com quem mantém.
 
-<p align="left">
-  💌 Fale comigo! ⤵️
-</p>
+✨ meu foco? criar soluções que brilham tanto na estética quanto na performance.
 
-<p>
-                <a href="mailto:sabrina.rf2003@gmail.com" target="_blank">
-                    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" 
-                         alt="Gmail">
-                </a>
-                <a href="https://www.linkedin.com/in/sabrinaramosdefreitas" target="_blank">
-                    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" 
-                         alt="LinkedIn">
-                </a>
-                <a href="https://api.whatsapp.com/send?phone=5553981102631" target="_blank">
-                    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" 
-                         alt="WhatsApp">
-                </a>
+---
+
+### 💻 techs que me acompanham:
+![react](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=000)
+![javascript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
+![html](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=fff)
+![css](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=fff)
+![git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=fff)
+![figma](https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=fff)
+![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![mysql](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=fff)
+![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
+![php](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=fff)
+
+> design é intenção. desenvolvimento é direção.
+
+<p align="center">
+  <img src="coloca-aqui-o-link-da-imagem-ou-nome-do-arquivo" alt="bonequinha programando" width="300"/>
 </p>
