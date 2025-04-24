@@ -2,7 +2,7 @@
 
 dev front-end que traduz conceitos em experiências visuais com propósito.
 
-me inspiro na harmonia entre forma e função: onde o código respira design e o design fala a linguagem da lógica.
+acredito no design que resolve e no código que comunica.
 
 💡 gosto de escrever código que conversa com quem usa e com quem mantém.
 
