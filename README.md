@@ -4,7 +4,7 @@ dev front-end que traduz conceitos em experiências visuais com propósito.
 
 acredito no design que resolve e no código que comunica.
 
-✨ meu foco? criar soluções que brilham tanto na estética quanto na performance.
+✨ meu foco? criar soluções que brilham tanto na estética quanto na funcionalidade.
 
 ---
 
