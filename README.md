@@ -2,8 +2,6 @@
 
 dev fullstack com foco em front-end que traduz conceitos em experiências visuais com propósito.
 
-acredito no design que resolve e no código que comunica.
-
 ✨ meu foco? criar soluções que brilham tanto na estética quanto na funcionalidade.
 
 ---
@@ -20,8 +18,6 @@ acredito no design que resolve e no código que comunica.
 ![postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![mysql](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=fff)
-
-> design é intenção. desenvolvimento é direção.
 
 <p align="right">
   <img src="./sabrinafreitas.png" alt="bonequinha programando" width="300"/>
