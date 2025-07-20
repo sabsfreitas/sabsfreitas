@@ -1,9 +1,5 @@
 ## olá, eu sou a sabrina 👋
 
-dev fullstack com foco em front-end que traduz conceitos em experiências visuais com propósito.
-
-✨ meu foco? criar soluções que brilham tanto na estética quanto na funcionalidade.
-
 ---
 
 ### 💻 techs:
