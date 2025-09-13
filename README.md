@@ -2,8 +2,8 @@
 
 <h2 style="color:#d8b4e2;">🌷 sabrina – 22 anos</h2>
 
-estudante de <b>sistemas de informação</b> na <b><a href="https://www.furg.br" style="color:#c5a7d3;">furg</a></b>  
-desenvolvedora de software com mais de 5 anos de experiência  
+estudante de <b>Sistemas de Informação</b> na <b><a href="https://www.furg.br" style="color:#c5a7d3;">FURG</a></b>  
+desenvolvedora de software com +5 anos de experiência  
 gosto de criar, escrever e transformar ideias em projetos  
 
 </div>
