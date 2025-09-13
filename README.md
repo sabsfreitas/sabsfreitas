@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 style="color:#d8b4e2; font-weight:600;">🌷 Sabrina — Desenvolvedora de Software · 22 anos</h2>
+<h2 style="color:#d8b4e2; font-weight:600;">🌷 Sabrina · Desenvolvedora de Software</h2>
 
 estudante de <b>Sistemas de Informação</b> na <b><a href="https://www.furg.br" style="color:#c5a7d3;">FURG</a></b>  
 desenvolvedora de software com +5 anos de experiência  
