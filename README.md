@@ -1,18 +1,61 @@
-## olá, eu sou a sabrina 👋
+<div align="center">
 
-### 💻 techs:
-![javascript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
-![html](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=fff)
-![css](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=fff)
-![react](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=000)
-![figma](https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=fff)
-![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
-![php](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=fff)
-![postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![mysql](https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=fff)
-![git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=fff)
+<h2 style="color:#d8b4e2;">🌷 sabrina – 22 anos</h2>
 
-<p align="right">
-  <img src="./sabrinafreitas.png" alt="bonequinha programando" width="300"/>
+estudante de <b>sistemas de informação</b> na <b><a href="https://www.furg.br" style="color:#c5a7d3;">furg</a></b>  
+desenvolvedora de software com mais de 5 anos de experiência  
+gosto de criar, escrever e transformar ideias em projetos  
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<h3 style="color:#c5a7d3;">☁️ aprendendo atualmente</h3>
+
+🧠 Inteligência Artificial  
+☁️ Serviços e Ecossistema da AWS  
+🧪 Qualidade de Software e Testes  
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<h3 style="color:#c5a7d3;">📬 onde me encontrar</h3>
+
+<a href="https://www.linkedin.com/in/sabrina-freitas-8354a8234" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%23d8b4e2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<h3 style="color:#c5a7d3;">💻 github status</h3>
+
+[![github streak](https://streak-stats.demolab.com?user=sabsfreitas&theme=rose_pine&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<h3 style="color:#c5a7d3;">💡 techs</h3>
+
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,php,html,css&theme=light" /> <br>
+<img src="https://skillicons.dev/icons?i=git,figma,notion&theme=light" /> <br>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=light" />
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=d8b4e2&height=80&section=footer" width="100%"/>
 </p>
