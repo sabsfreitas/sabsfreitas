@@ -12,7 +12,7 @@ gosto de criar, escrever e transformar ideias em projetos
 
 <div align="center">
 
-<h3 style="color:#c5a7d3;">☁️ aprendendo atualmente</h3>
+<h3 style="color:#c5a7d3;">🌱 aprendendo atualmente</h3>
 
 🧠 Inteligência Artificial  
 ☁️ Serviços e Ecossistema da AWS  
@@ -46,11 +46,21 @@ gosto de criar, escrever e transformar ideias em projetos
 
 <div align="center">
 
-<h3 style="color:#c5a7d3;">💡 techs</h3>
+<h3 style="color:#c5a7d3;">⚙️ techs</h3>
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,php,html,css&theme=light" /> <br>
-<img src="https://skillicons.dev/icons?i=git,figma,notion&theme=light" /> <br>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=light" />
+<img src="https://img.shields.io/badge/python-d8b4e2?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-d8b4e2?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-d8b4e2?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/php-d8b4e2?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-d8b4e2?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-d8b4e2?style=for-the-badge&logo=css3&logoColor=white" />  
+<br>
+<img src="https://img.shields.io/badge/git-d8b4e2?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-d8b4e2?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/notion-d8b4e2?style=for-the-badge&logo=notion&logoColor=white" />  
+<br>
+<img src="https://img.shields.io/badge/postgresql-d8b4e2?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-d8b4e2?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
 
