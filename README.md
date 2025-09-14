@@ -58,7 +58,7 @@ gosto de criar, escrever e transformar ideias em projetos
 <img src="https://img.shields.io/badge/node.js-d8b4e2?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/php-d8b4e2?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-d8b4e2?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-d8b4e2?style=for-the-badge&logo=css3&logoColor=white" />  
+<img src="https://img.shields.io/badge/css3-d8b4e2?style=for-the-badge&logo=css&logoColor=white" />  
 <br>
 <img src="https://img.shields.io/badge/git-d8b4e2?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-d8b4e2?style=for-the-badge&logo=figma&logoColor=white" />
