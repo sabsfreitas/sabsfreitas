@@ -1,5 +1,10 @@
 <div align="center">
 
+  <img src="assets/meandpi.png" 
+       alt=""
+       width="150" 
+       style="border-radius: 50%; margin-bottom: 15px;" />
+
 <h2 style="color:#d8b4e2; font-weight:600;">🌷 Sabrina · Desenvolvedora de Software</h2>
 
 estudante de <b>Sistemas de Informação</b> na <b><a href="https://www.furg.br" style="color:#c5a7d3;">FURG</a></b>  
