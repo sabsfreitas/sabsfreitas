@@ -43,7 +43,7 @@ gosto de criar, escrever e transformar ideias em projetos
 
 <h3 style="color:#c5a7d3;">💻 github status</h3>
 
-[![github streak](https://streak-stats.demolab.com?user=sabsfreitas&theme=rose_pine&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sabsfreitas&theme=rose-pine&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
