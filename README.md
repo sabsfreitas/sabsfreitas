@@ -21,7 +21,7 @@ gosto de criar, escrever e transformar ideias em projetos
 
 🧠 Inteligência Artificial  
 ☁️ Serviços e Ecossistema da AWS  
-🧪 Qualidade de Software e Testes  
+🧪 Qualidade de Software & Testes automatizados 
 
 </div>
 
