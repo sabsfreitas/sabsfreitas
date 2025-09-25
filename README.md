@@ -19,7 +19,7 @@ gosto de criar, escrever e transformar ideias em projetos
 
 <h3 style="color:#c5a7d3;">🌱 aprendendo atualmente</h3>
 
-🧠 Inteligência Artificial  
+🧠 LLMs 
 ☁️ Serviços e Ecossistema da AWS  
 🧪 Qualidade de Software & Testes automatizados 
 
