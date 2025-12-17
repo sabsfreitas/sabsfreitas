@@ -20,8 +20,7 @@ gosto de criar, escrever e transformar ideias em projetos
 <h3 style="color:#c5a7d3;">🌱 aprendendo atualmente</h3>
 
 🧠 LLMs <br>
-☁️ Serviços e Ecossistema da AWS <br>
-🧪 Qualidade de Software & Testes automatizados
+☁️ Serviços e Ecossistema da AWS
 
 </div>
 
